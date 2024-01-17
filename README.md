@@ -1,4 +1,4 @@
-# shot_game
+# Shot_game
 Game through pygame 
 Author: Usman Ali
 
